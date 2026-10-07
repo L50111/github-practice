@@ -1,3 +1,3 @@
 # github-practice
-【feature-conflict分支】这是分支上修改的同一行内容
+【feature-final分支】分支版本，用来制造合并冲突
 
